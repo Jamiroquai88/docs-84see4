@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-8d7yw9.shadowdiary.com/sitemap.xml
